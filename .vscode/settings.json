@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "main.C": "cpp",
+        "make.C": "cpp",
+        "SISMainWindow.C": "cpp",
+        "SISModule.C": "cpp"
+    }
+}
